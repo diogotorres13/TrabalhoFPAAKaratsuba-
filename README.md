@@ -19,8 +19,8 @@ Este projeto apresenta uma implementação em Python do algoritmo de multiplica�
 ### Execução
 1. Clone o repositório
    ```sh
-   git clone https://github.com/pedrodecampos/trabalho_indiviudal_1_fpaa.git
-   cd trabalho_indiviudal-1_fpaa
+   git clone https://github.com/diogotorres13/TrabalhoFPAAKaratsuba-.git
+   cd TrabalhoFPAAKaratsuba
    ```
 2. Execute o script
    ```sh
